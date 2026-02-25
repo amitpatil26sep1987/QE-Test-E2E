@@ -1,0 +1,23 @@
+{
+  "name": "qe-test-e2e",
+  "version": "1.0.0",
+  "description": "Automation for Coastal project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitpatil26sep1987/QE-Test-E2E.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/amitpatil26sep1987/QE-Test-E2E/issues"
+  },
+  "homepage": "https://github.com/amitpatil26sep1987/QE-Test-E2E#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
